@@ -3,9 +3,10 @@ module.exports = {
     title: `Holy Holy Holy`,
     author: `Guillermo Lizasoain`,
     description: `And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come. (Rev 4:8)`,
+    subTitle: `And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come. (Rev 4:8)`,
     siteUrl: `http://holyholyholy.com/`,
     social: {
-      twitter: `master`,
+      twitter: ``,
     },
   },
   plugins: [
@@ -63,7 +64,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/h3-icon.png`,
       },
     },
     `gatsby-plugin-offline`,

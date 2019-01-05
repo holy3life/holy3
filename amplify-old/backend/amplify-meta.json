@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "holy3-20181221235140-authRole",
+            "UnauthRoleArn": "arn:aws:iam::692839694440:role/holy3-20181221235140-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::692839694440:role/holy3-20181221235140-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "holy3-20181221235140-deployment",
+            "UnauthRoleName": "holy3-20181221235140-unauthRole",
+            "StackName": "holy3-20181221235140",
+            "StackId": "arn:aws:cloudformation:us-east-2:692839694440:stack/holy3-20181221235140/459adaf0-05a5-11e9-af9f-06e3439fefa0"
+        }
+    }
+}
