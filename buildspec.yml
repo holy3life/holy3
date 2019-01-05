@@ -18,4 +18,3 @@ artifacts:
     files:
       - '**/*'
     discard-paths: yes
-view rawbuildspec.yml
