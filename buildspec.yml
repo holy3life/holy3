@@ -15,6 +15,7 @@ phases:
             - 'aws s3 sync "public/" "s3://holyholyholy.life" --delete --acl "public-read"'
 artifacts:
     base-directory: public
-    files: - '**/*'
+    files:
+      - '**/*'
     discard-paths: yes
 view rawbuildspec.yml
